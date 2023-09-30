@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\jeans\\Documentos\\DIO\\.NET\\Abstraindo_um_Sistema_Para_Celular\\projeto\\projeto.csproj": {}
+    "C:\\Users\\jeans\\Documentos\\DIO\\.NET\\Abstraindo_um_Sistema_Para_Celular\\projeto\\projeto.csproj": {}
   },
   "projects": {
-    "c:\\Users\\jeans\\Documentos\\DIO\\.NET\\Abstraindo_um_Sistema_Para_Celular\\projeto\\projeto.csproj": {
+    "C:\\Users\\jeans\\Documentos\\DIO\\.NET\\Abstraindo_um_Sistema_Para_Celular\\projeto\\projeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jeans\\Documentos\\DIO\\.NET\\Abstraindo_um_Sistema_Para_Celular\\projeto\\projeto.csproj",
+        "projectUniqueName": "C:\\Users\\jeans\\Documentos\\DIO\\.NET\\Abstraindo_um_Sistema_Para_Celular\\projeto\\projeto.csproj",
         "projectName": "projeto",
-        "projectPath": "c:\\Users\\jeans\\Documentos\\DIO\\.NET\\Abstraindo_um_Sistema_Para_Celular\\projeto\\projeto.csproj",
+        "projectPath": "C:\\Users\\jeans\\Documentos\\DIO\\.NET\\Abstraindo_um_Sistema_Para_Celular\\projeto\\projeto.csproj",
         "packagesPath": "C:\\Users\\jeans\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jeans\\Documentos\\DIO\\.NET\\Abstraindo_um_Sistema_Para_Celular\\projeto\\obj\\",
+        "outputPath": "C:\\Users\\jeans\\Documentos\\DIO\\.NET\\Abstraindo_um_Sistema_Para_Celular\\projeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jeans\\AppData\\Roaming\\NuGet\\NuGet.Config"
