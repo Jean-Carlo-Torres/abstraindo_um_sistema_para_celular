@@ -1,0 +1,15 @@
+C:\Users\jeans\Documentos\DIO\.NET\Abstraindo_um_Sistema_Para_Celular\projeto\bin\Debug\net8.0\projeto.exe
+C:\Users\jeans\Documentos\DIO\.NET\Abstraindo_um_Sistema_Para_Celular\projeto\bin\Debug\net8.0\projeto.deps.json
+C:\Users\jeans\Documentos\DIO\.NET\Abstraindo_um_Sistema_Para_Celular\projeto\bin\Debug\net8.0\projeto.runtimeconfig.json
+C:\Users\jeans\Documentos\DIO\.NET\Abstraindo_um_Sistema_Para_Celular\projeto\bin\Debug\net8.0\projeto.dll
+C:\Users\jeans\Documentos\DIO\.NET\Abstraindo_um_Sistema_Para_Celular\projeto\bin\Debug\net8.0\projeto.pdb
+C:\Users\jeans\Documentos\DIO\.NET\Abstraindo_um_Sistema_Para_Celular\projeto\obj\Debug\net8.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeans\Documentos\DIO\.NET\Abstraindo_um_Sistema_Para_Celular\projeto\obj\Debug\net8.0\projeto.AssemblyInfoInputs.cache
+C:\Users\jeans\Documentos\DIO\.NET\Abstraindo_um_Sistema_Para_Celular\projeto\obj\Debug\net8.0\projeto.AssemblyInfo.cs
+C:\Users\jeans\Documentos\DIO\.NET\Abstraindo_um_Sistema_Para_Celular\projeto\obj\Debug\net8.0\projeto.csproj.CoreCompileInputs.cache
+C:\Users\jeans\Documentos\DIO\.NET\Abstraindo_um_Sistema_Para_Celular\projeto\obj\Debug\net8.0\projeto.sourcelink.json
+C:\Users\jeans\Documentos\DIO\.NET\Abstraindo_um_Sistema_Para_Celular\projeto\obj\Debug\net8.0\projeto.dll
+C:\Users\jeans\Documentos\DIO\.NET\Abstraindo_um_Sistema_Para_Celular\projeto\obj\Debug\net8.0\refint\projeto.dll
+C:\Users\jeans\Documentos\DIO\.NET\Abstraindo_um_Sistema_Para_Celular\projeto\obj\Debug\net8.0\projeto.pdb
+C:\Users\jeans\Documentos\DIO\.NET\Abstraindo_um_Sistema_Para_Celular\projeto\obj\Debug\net8.0\projeto.genruntimeconfig.cache
+C:\Users\jeans\Documentos\DIO\.NET\Abstraindo_um_Sistema_Para_Celular\projeto\obj\Debug\net8.0\ref\projeto.dll

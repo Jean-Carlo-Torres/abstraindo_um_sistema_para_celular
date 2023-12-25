@@ -11,7 +11,6 @@ namespace projeto.Models
         public int Memoria { get; set; }
         public int NivelBateria { get; set; }
 
-        // Construtor
         public Smartphone(string numero, string modelo, string imei, int memoria)
         {
             Numero = numero;
